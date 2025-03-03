@@ -22,3 +22,5 @@ Este es un proyecto simple de **"Amigo Secreto"** desarrollado con **HTML, CSS y
 3. Repite el paso 2 para agregar más amigos.
 4. Haz clic en **"Sortear amigo"** para elegir un nombre al azar.
 5. El nombre del amigo sorteado aparecerá en la pantalla.
+
+---
